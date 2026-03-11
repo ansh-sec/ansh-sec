@@ -11,7 +11,6 @@
 
 ### `~/security` `~/linux` `~/break-things-first`
 
-[![Visits](https://visitcount.itsvg.in/api?id=ansh-sec&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Website](https://img.shields.io/badge/Website-anshlog.qzz.io-blue?style=flat-square)](https://anshlog.qzz.io)
 
 </div>
