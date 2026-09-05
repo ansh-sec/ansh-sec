@@ -12,8 +12,8 @@ Currently learning Burp Suite, Nmap, Metasploit — CTFs and pentesting, not the
 - First CTFs
 
 ## Reach me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ansh.charvak@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dxdydzdd)
+[Email](mailto:ansh.charvak@gmail.com)                  
+[Telegram](https://t.me/dxdydzdd)
 
 ---
 I use Arch btw
